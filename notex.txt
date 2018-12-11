@@ -1,0 +1,12 @@
+https://www.cise.ufl.edu/~manuel/obfuscate/obfuscate.html
+
+
+
+india_flag.c compile ---> g++ india_flag.c
+donut.c compile ---> gcc -o donut donut.c -lm
+main.c ---> 13.24.40 display
+aero.c --> sudo apt install libx11-dev  aeroplane code (Not working)  g++ aero.cpp -lX11
+largestPrime.c ---> Prints largest Prime number  (2^6972593-1)
+love.c --> Prints "I lOve You"
+hello_world.c ---> Prints Hello World
+
